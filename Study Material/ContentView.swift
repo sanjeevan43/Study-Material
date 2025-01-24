@@ -2,14 +2,14 @@
 //  ContentView.swift
 //  Study Material
 //
-//  Created by sanjeevan on 23/01/25.
+//  Created by s     [\      `anjeevan on 23/01/25.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("sanjeevan")
+        Text("jeevith")
         GeometryReader { geometry in
             ScrollView {
                 VStack(spacing: 20) {
